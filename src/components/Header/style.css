@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+  .MuiToolbar-root {
+    padding-bottom: 5px;
+  }
+
+  .css-1otzh7i-MuiTypography-root {
+    text-align: center;
+  }
+}
